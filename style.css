@@ -1,8 +1,14 @@
-body {
-  background-color: #fff3e0;
-  color: #333333;
-  font-family: "Meiryo", sans-serif;
-  text-align: center;
-  margin: 0;
-  padding: 40px;
-}
+<style>
+    body {
+        background-color: #f0f8ff;
+        color: #333333;
+    }
+
+    h1 {
+        color: #2563eb;
+    }
+
+    h2 {
+        color: #e11d48;
+    }
+</style>
