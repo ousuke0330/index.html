@@ -1,4 +1,8 @@
-body{
-background-color: #478996;
-color: #55555555
+body {
+  background-color: #fff3e0;
+  color: #333333;
+  font-family: "Meiryo", sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 40px;
 }
